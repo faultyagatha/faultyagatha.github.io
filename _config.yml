@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Faulty Agatha"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "In love with Computational Creativity."
-  location         : "Berlin, Germany"
+  bio              : # "In love with Computational Creativity."
+  location         : # "Berlin, Germany"
   email            :
   links:
     - label: "Email"
