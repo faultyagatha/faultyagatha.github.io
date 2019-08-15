@@ -1,15 +1,7 @@
 <!---
-layout: av
+layout: page
 title: Audiovisual
 -->
 
----
-title: Audiovisual
-layout: collection
-permalink: /av/
-collection: av
-entries_layout: grid
-classes: wide
----
-
-Sample document listing for the collection.
+Oops, I'm still working on the content of this page, and it'll be available by the end of summer 2019. 
+Meanwhile, enjoy the sunshine!
