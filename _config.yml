@@ -20,7 +20,7 @@ title                    : "Agatha's Playground"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Faulty Agatha"
-description              : "A Playground for Computational Creativity"
+description              : # "A Playground for Computational Creativity"
 url                      : "https://faultyagatha.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
