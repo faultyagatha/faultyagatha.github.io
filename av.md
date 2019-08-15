@@ -1,10 +1,7 @@
----
-title: Portfolio
-layout: collection
-permalink: /portfolio/
-collection: portfolio
-entries_layout: grid
-classes: wide
----
+<!---
+layout: page
+title: Audiovisual
+-->
 
-Sample document listing for the collection `_portfolio`.
+Oops, I'm still working on the content of this page, and it'll be available by the end of summer 2019. 
+Meanwhile, enjoy the sunshine!
