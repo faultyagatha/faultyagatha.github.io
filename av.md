@@ -1,10 +1,15 @@
+<!---
+layout: av
+title: Audiovisual
+-->
+
 ---
-title: Portfolio
+title: Audiovisual
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /av/
+collection: av
 entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+Sample document listing for the collection.
