@@ -24,7 +24,7 @@ description              : "Creative Coding Playground"
 url                      : "https://faultyagatha.github.io"
 baseurl                  : #"/main"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/resize_teaser.jpg"
+teaser                   : /assets/images/resize_teaser.jpg
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
