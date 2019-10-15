@@ -30,6 +30,13 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+  - image_path: /assets/images/shaders.png
+    title: "Shaders"
+    excerpt: 'Shaders for creative applications'
+    url: "https://www.instagram.com/faultyagatha/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 # feature_row4:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
