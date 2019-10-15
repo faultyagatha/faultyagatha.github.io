@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: _pages/about/
 --
 
     I am a Berlin-based visual artist and creative technologist interested in how 
