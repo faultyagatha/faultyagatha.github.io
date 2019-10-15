@@ -16,7 +16,7 @@ feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 
 feature_row2:
-    - image_path: /assets/images/fantasynth.png
+  - image_path: /assets/images/fantasynth.png
     title: "Fantasynth"
     excerpt: "Imaginary world built in Unity."
     url: "https://github.com/faultyagatha/OrientationProject"
