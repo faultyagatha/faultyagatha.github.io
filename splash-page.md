@@ -15,22 +15,22 @@ intro:
 feature_row1:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 
-  #   #alt: "placeholder image 1"
-  #   title: "Fantasynth"
-  #   excerpt: "Imaginary world built in Unity."
-  #   url: "https://github.com/faultyagatha/OrientationProject"
-  #   btn_label: "Read More"
-  #   btn_class: "btn--primary"
-  # - image_path: /assets/images/fantasynth.png
-  #   image_caption: #"Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
-
-    #alt: "placeholder image 2"
+    #alt: "placeholder image 1"
     - image_path: /assets/images/fantasynth.png
     title: "Fantasynth"
-    excerpt: "Imaginary world built with Unity."
+    excerpt: "Imaginary world built in Unity."
     url: "https://github.com/faultyagatha/OrientationProject"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    image_caption: #"Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
+
+    #alt: "placeholder image 2"
+    # - image_path: /assets/images/fantasynth.png
+    # title: "Fantasynth"
+    # excerpt: "Imaginary world built with Unity."
+    # url: "https://github.com/faultyagatha/OrientationProject"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
  
     #title: "Placeholder 3"
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
