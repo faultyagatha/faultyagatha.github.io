@@ -12,7 +12,7 @@ header:
 excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
   - excerpt: 'In my art practice, I merge video, creative coding, and game design to create experimental visual experiences. I enjoy coding and try to code whenever I can, as for example, I did with this website. Below is the short-list of my works. If you like them drop me a line at **faulty.agatha(at)gmail(dot)com.**'
-feature_row:
+feature_row1:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 
     alt: "placeholder image 1"
@@ -61,7 +61,7 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="right"%}
+{% include feature_row id="feature_row1" type="left"%}
 
 {% include feature_row id="feature_row2" type="left" %}
 
