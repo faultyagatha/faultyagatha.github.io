@@ -24,7 +24,6 @@ feature_row:
     btn_class: "btn--primary"
     image_caption: #"Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 
-feature_row2:
   - image_path: /assets/images/zeroG1.png
     title: "Zero Gravity"
     excerpt: 'Video Installation: Unity + Raspberry Pi'
