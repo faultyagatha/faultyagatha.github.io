@@ -7,20 +7,20 @@ header:
   overlay_image: /assets/images/layout1.png
   actions:
     - label: "Play"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://vimeo.com/faultyagatha"
   caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
-  - excerpt: 'In my art practice, I merge video, creative coding, and game design to create experimental visual experiences. I value equality, respect, and openness to the world and look forward to any kind of collaboration and creative exchange. If you think we could get creative together drop me a line at **faulty.agatha(at)gmail(dot)com.**'
+  - excerpt: 'In my art practice, I merge video, creative coding, and game design to create experimental visual experiences. I enjoy coding and try to code whenever I can, as for example, I did with this website. Below is the short-list of my works. If you like them drop me a line at **faulty.agatha(at)gmail(dot)com.**'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "Placeholder 1"
     title: "Fantasynth"
-    excerpt: "Imaginary world build in Unity."
-    url: "#test-link"
+    excerpt: "Imaginary world built in Unity."
+    url: "https://github.com/faultyagatha/OrientationProject"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/fantasynth.tif
+  - image_path: /assets/images/fantasynth.png
     image_caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
