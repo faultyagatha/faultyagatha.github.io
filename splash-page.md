@@ -9,16 +9,19 @@ header:
     - label: "Play"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
-excerpt: "Hello there and welcome to my world! I am Faulty Agatha, visual artist and creative technologist living in Berlin."
+excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'In my art practice, I merge video, creative coding, and game design to create experimental visual experiences. I value equality, respect, and openness to the world and look forward to any kind of collaboration and creative exchange. If you think we could get creative together drop me a line at **faulty.agatha(at)gmail(dot)com.**'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "Placeholder 1"
+    title: "Fantasynth"
+    excerpt: "Imaginary world build in Unity."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/fantasynth.tif
+    image_caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
