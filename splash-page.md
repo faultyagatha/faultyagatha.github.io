@@ -11,7 +11,7 @@ header:
   caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
-  - excerpt: 'In my art practice, I merge video, creative coding, and game design to create experimental visual experiences. I enjoy coding and try to code whenever I can, as for example, I did with this website. Below is the short-list of my works. If you like them drop me a line at **faulty.agatha(at)gmail(dot)com.**'
+  - excerpt: 'In my art practice, I merge video, creative coding, and game design to create experimental visual experiences. I enjoy coding and try to code whenever I can, as for example, I do with this website. Below is the short-list of my works. If you like them drop me a line at **faulty.agatha(at)gmail(dot)com.**'
 feature_row1:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 
@@ -24,13 +24,13 @@ feature_row1:
   - image_path: /assets/images/fantasynth.png
     image_caption: #"Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 
-    #alt: "placeholder image 2"
-    #title: "Placeholder 2"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    #url: "#test-link"
-    #btn_label: "Read More"
-    #btn_class: "btn--primary"
-  #- image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 2"
+    title: "Fantasynth"
+    excerpt: "Imaginary world built with Unity."
+    url: "https://github.com/faultyagatha/OrientationProject"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/fantasynth.png
     #title: "Placeholder 3"
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
