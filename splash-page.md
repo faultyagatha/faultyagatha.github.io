@@ -15,7 +15,7 @@ intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 
-feature_row2:
+feature_row:
   - image_path: /assets/images/fantasynth.png
     title: "Fantasynth"
     excerpt: "Imaginary world built in Unity."
@@ -24,7 +24,7 @@ feature_row2:
     btn_class: "btn--primary"
     image_caption: #"Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 
-feature_row3:
+feature_row:
   - image_path: /assets/images/zeroG1.png
     title: "Zero Gravity"
     excerpt: 'Video Installation: Unity + Raspberry Pi'
