@@ -11,7 +11,7 @@ header:
   #caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 #excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
-  - excerpt: 'I'm learning something new every day. This page is still in the process of development.'
+  - excerpt: 'I learn something new every day. This page is still in the process of development.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 
@@ -25,24 +25,24 @@ feature_row:
   
   - image_path: /assets/images/fantasynth.png
     title: "Fantasynth"
-    excerpt: "Imaginary world built in Unity."
+    excerpt: "Real-time installation built in Unity."
     url: "https://github.com/faultyagatha/OrientationProject"
     btn_label: "Github"
     btn_class: "btn--primary"
 
-#   - image_path: /assets/images/flamingos.png
-#     title: "Cinema Performance"
-#     excerpt: "Audiovisual performance at Trauma Bar und Kino 2019."
-#     url: "https://instagram.com/faultyagatha/"
-#     btn_label: "Instagram"
-#     btn_class: "btn--primary"
+  - image_path: /assets/images/zeroG1.png
+    title: "Zero Gravity"
+    excerpt: 'Video Installation: Unity + Raspberry Pi'
+    url: "https://www.instagram.com/faultyagatha/"
+    btn_label: "Instagram"
+    btn_class: "btn--primary"
 
-#   - image_path: /assets/images/human.jpg
-#     title: "Human not too Human"
-#     excerpt: 'Audiovisual performance for 48 Stunden Neukölln 2018.'
-#     url: "https://vimeo.com/297050230"
-#     btn_label: "Vimeo"
-#     btn_class: "btn--primary"
+  - image_path: /assets/images/shaders.png
+    title: "Shaders"
+    excerpt: 'Shaders for creative applications'
+    url: "https://www.instagram.com/faultyagatha/"
+    btn_label: "Instagram"
+    btn_class: "btn--primary"
 
 #   - image_path: /assets/images/human2.jpg
 #     title: "Water Does not Wash Water"
