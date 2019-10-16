@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Instagram"
       url: "https://instagram.com/faultyagatha/"
-  caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
+  #caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
   - excerpt: 'In my art practice, I merge video, creative coding, and game design to create experimental visual experiences. I enjoy coding and try to code whenever I can, as for example, I do with this website. Below is the short-list of my works. If you like them drop me a line at **faulty.agatha(at)gmail(dot)com.**'

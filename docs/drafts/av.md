@@ -4,11 +4,11 @@ permalink: /av/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/teaser.jpg
+  overlay_image: /assets/images/hovering.png
   actions:
     - label: "Instagram"
       url: "https://instagram.com/faultyagatha/"
-  caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
+  #caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 #excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
   - excerpt: 'In essence, everything I do involves coding at least to some extent: some works more, some works less. Yet there are visual pieces that fit better to be called audiovisual pieces.'
