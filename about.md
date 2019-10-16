@@ -24,14 +24,10 @@ In my art practice, I merge video, creative coding, and game design to create ex
 
 <!-- [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large} -->
 
-## Notable Features
+## Societal art and Curation
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
+I am part of the curating team [Scope Sessions](http://scopesessions.org/) and an organising member of [VJ Open Lab Community](http://vjopenlab.com/).  
+
 
 
 
