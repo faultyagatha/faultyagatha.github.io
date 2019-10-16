@@ -32,7 +32,7 @@ feature_row:
 
   - image_path: /assets/images/flamingos.png
     title: "Cinema Performance"
-    excerpt: "Audiovisual performance at Trauma Bar und Kino 2019."
+    excerpt: "Audiovisual set at Trauma Bar und Kino for Room for Resistance 2019."
     url: "https://instagram.com/faultyagatha/"
     btn_label: "Instagram"
     btn_class: "btn--primary"
@@ -46,7 +46,7 @@ feature_row:
 
   - image_path: /assets/images/human2.jpg
     title: "Water Does not Wash..."
-    excerpt: 'Transmediale CTM Vorspiel 2018'
+    excerpt: 'Collective audio-visual performance for Transmediale CTM Vorspiel 2018'
     url: "https://vimeo.com/254469315"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
