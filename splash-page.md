@@ -6,8 +6,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/layout1.png
   actions:
-    - label: "Play"
-      url: "https://vimeo.com/faultyagatha"
+    - label: "Instagram"
+      url: "https://instagram.com/faultyagatha/"
   caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
