@@ -43,28 +43,7 @@ I am a Berlin-based visual artist and creative technologist interested in how
 - Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
 
 
-<!-- ## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url #test-link %}
-[gallery-post]: {{ "" | relative_url }}{% post_url #test-link %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url #test-link %}
-[syntax-post]: {{ "" | relative_url }}{% post_url #test-link %}
-[sample-collection]: {{ "#test-link" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }} -->
+[header-image-post]: {{ "" | relative_url }}{% post_url /assets/images/layout1.png %}
 
 ---
 
