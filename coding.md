@@ -39,7 +39,7 @@ feature_row:
 
   - image_path: /assets/images/shaders.png
     title: "Shaders"
-    excerpt: 'Shaders for creative applications'
+    excerpt: 'GLSL shaders for creative applications'
     url: "https://www.instagram.com/faultyagatha/"
     btn_label: "Instagram"
     btn_class: "btn--primary"
