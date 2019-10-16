@@ -27,8 +27,8 @@ feature_row:
   - image_path: /assets/images/zeroG1.png
     title: "Zero Gravity"
     excerpt: 'Video Installation: Unity + Raspberry Pi'
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "https://www.instagram.com/faultyagatha/"
+    btn_label: "Instagram"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/shaders.png
