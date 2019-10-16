@@ -39,13 +39,13 @@ feature_row:
 
   - image_path: /assets/images/human.jpg
     title: "Human not too Human"
-    excerpt: 'Audiovisual performance for 48 Stunden Neukölln 2018.'
+    excerpt: 'Audiovisual performance for 48 Stunden Neukölln at Spektrum 2018.'
     url: "https://vimeo.com/297050230"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/human2.jpg
-    title: "Water Does not Wash Water"
+    title: "Water Does not Wash..."
     excerpt: 'Transmediale CTM Vorspiel 2018'
     url: "https://vimeo.com/254469315"
     btn_label: "Vimeo"
@@ -53,7 +53,7 @@ feature_row:
 
   - image_path: /assets/images/stars.png
     title: "Stars and Flowers"
-    excerpt: 'Music video for Mila Chiral. Album "WHERE TIME MEETS SPACE"'
+    excerpt: 'Music video for Mila Chiral released on the album "WHERE TIME MEETS SPACE"'
     url: "https://vimeo.com/298134494"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
