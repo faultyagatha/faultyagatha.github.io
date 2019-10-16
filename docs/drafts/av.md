@@ -50,6 +50,13 @@ feature_row:
     url: "https://vimeo.com/254469315"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
+
+  - image_path: /assets/images/stars.png
+    title: "Stars and Flowers"
+    excerpt: 'Music video for Mila Chiral'
+    url: "https://vimeo.com/298134494"
+    btn_label: "Vimeo"
+    btn_class: "btn--primary"
 # feature_row4:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
