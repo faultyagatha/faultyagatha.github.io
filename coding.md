@@ -37,12 +37,12 @@ feature_row:
     btn_label: "Instagram"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/shaders.png
-    title: "Shaders"
-    excerpt: 'GLSL shaders for creative applications'
-    url: "https://www.instagram.com/faultyagatha/"
-    btn_label: "Instagram"
-    btn_class: "btn--primary"
+  # - image_path: /assets/images/shaders.png
+  #   title: "Shaders"
+  #   excerpt: 'GLSL shaders for creative applications'
+  #   url: "https://www.instagram.com/faultyagatha/"
+  #   btn_label: "Instagram"
+  #   btn_class: "btn--primary"
 
 #   - image_path: /assets/images/human2.jpg
 #     title: "Water Does not Wash Water"
