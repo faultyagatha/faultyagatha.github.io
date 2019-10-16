@@ -4,11 +4,11 @@ permalink: /av/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/teaser.jpg
+  overlay_image: /assets/images/hovering.png
   actions:
     - label: "Instagram"
       url: "https://instagram.com/faultyagatha/"
-  caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
+  #caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 #excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
   - excerpt: 'In essence, everything I do involves coding at least to some extent: some works more, some works less. Yet there are visual pieces that fit better to be called audiovisual pieces.'
@@ -18,15 +18,28 @@ feature_row:
 feature_row:
   - image_path: /assets/images/bats.png
     title: "Trial and Theresa"
-    excerpt: "Audiovisual set for Trial and Theresa VJ Collective during 48 Stunden Neukölln at Café Kosmetiksalon Babette"
+    excerpt: "Audiovisual set for Trial and Theresa VJ Collective at 48 Stunden Neukölln 2019."
     url: "https://vimeo.com/353768262"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
-    image_caption: #"Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
+  
+  - image_path: /assets/images/alive.png
+    title: "Alive"
+    excerpt: "Audiovisual performance at the exhibition opening 2019."
+    url: "https://vimeo.com/354495636"
+    btn_label: "Vimeo"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/flamingos.png
+    title: "Cinema Performance"
+    excerpt: "Audiovisual performance at Trauma Bar und Kino 2019."
+    url: "https://instagram.com/faultyagatha/"
+    btn_label: "Instagram"
+    btn_class: "btn--primary"
 
   - image_path: /assets/images/human.jpg
     title: "Human not too Human"
-    excerpt: 'Audiovisual performance for 48 Stunden Neukölln.'
+    excerpt: 'Audiovisual performance for 48 Stunden Neukölln 2018.'
     url: "https://vimeo.com/297050230"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
@@ -35,6 +48,13 @@ feature_row:
     title: "Water Does not Wash Water"
     excerpt: 'Transmediale CTM Vorspiel 2018'
     url: "https://vimeo.com/254469315"
+    btn_label: "Vimeo"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/stars.png
+    title: "Stars and Flowers"
+    excerpt: 'Music video for Mila Chiral'
+    url: "https://vimeo.com/298134494"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
 # feature_row4:
