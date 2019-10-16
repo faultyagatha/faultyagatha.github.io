@@ -20,7 +20,7 @@ feature_row:
     title: "Fantasynth"
     excerpt: "Imaginary world built in Unity."
     url: "https://github.com/faultyagatha/OrientationProject"
-    btn_label: "Read More"
+    btn_label: "Github"
     btn_class: "btn--primary"
     image_caption: #"Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 
@@ -35,7 +35,7 @@ feature_row:
     title: "Shaders"
     excerpt: 'Shaders for creative applications'
     url: "https://www.instagram.com/faultyagatha/"
-    btn_label: "Read More"
+    btn_label: "Instagram"
     btn_class: "btn--primary"
 # feature_row4:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
