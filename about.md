@@ -43,7 +43,6 @@ I am a Berlin-based visual artist and creative technologist interested in how
 - Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
 
 
-[header-image-post]: {{ "" | relative_url }}{% post_url /assets/images/layout1.png %}
 
 ---
 
