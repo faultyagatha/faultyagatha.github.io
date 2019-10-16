@@ -4,21 +4,21 @@ permalink: /av/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/model_squad.png
+  overlay_image: /assets/images/eyehand1.png
   actions:
     - label: "Instagram"
       url: "https://instagram.com/faultyagatha/"
   #caption: "Photo credit: [**@faultyagatha**](https://instagram.com/faultyagatha/)"
 #excerpt: "Hello there and welcome to my world! I am Faulty Agatha, a visual artist and creative technologist living in Berlin."
 intro: 
-  - excerpt: 'In essence, everything I do involves coding at least to some extent: some works more, some works less. Yet there are visual pieces that fit better to be called audiovisual pieces.'
+  - excerpt: 'I'm learning something new every day. This page is still in the process of development.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 
 feature_row:
   - image_path: /assets/images/bats.png
-    title: "Trial and Theresa"
-    excerpt: "Audiovisual set for Trial and Theresa VJ Collective at 48 Stunden Neukölln 2019."
+    title: "Floating"
+    excerpt: "Sketch in openFrameworks."
     url: "https://vimeo.com/353768262"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
@@ -53,7 +53,7 @@ feature_row:
 
   - image_path: /assets/images/stars.png
     title: "Stars and Flowers"
-    excerpt: 'Music video for Mila Chiral. Album "WHERE TIME MEETS SPACE"'
+    excerpt: 'Music video for Mila Chiral'
     url: "https://vimeo.com/298134494"
     btn_label: "Vimeo"
     btn_class: "btn--primary"
