@@ -7,10 +7,16 @@ body {
   font-size: 0.8rem;
 }
 
-h1,
-h3 {
+.flex-item {
+  display: flex;
+  align-items: flex-start;
+}
+
+h1 {
   letter-spacing: 2px;
-  text-align: center;
+  text-size-adjust: auto;
+  /* text-align: center; */
+  align-items: stretch;
   position: absolute;
   left: 50%;
   top: 50%;
