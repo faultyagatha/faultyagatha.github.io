@@ -245,8 +245,7 @@ export default class SceneController
 
     onDocumentTouchMove(e)
     {
-        const touch = e.targetTouches[0];
-        this.onDocumentMouseMove({ clientX: touch.clientX, clientY: touch.clientY });
+        this.next();
     }
 
     dispose() 

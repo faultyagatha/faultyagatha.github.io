@@ -4,7 +4,7 @@ body {
   background-color: #AF7595;
   font-family: 'Sulphur Point', sans-serif;
   color: #2F3E4F;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 
 .flex-item {
@@ -15,7 +15,6 @@ body {
 h1 {
   letter-spacing: 2px;
   text-size-adjust: auto;
-  /* text-align: center; */
   align-items: stretch;
   position: absolute;
   left: 50%;
