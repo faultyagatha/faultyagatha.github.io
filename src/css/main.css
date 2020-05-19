@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Sulphur+Point&display=swap);
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    --color-text: #8b8b8b;
+    --color-bg:  #A3B2B9;
+    --color-link-hover: #f1f1f1;
+    background: var(--color-bg);
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: 0.9rem;
+    color: var(--color-text);
+  }
+
+  body:not(.loaded) #slider img {
+    display:none;
+  }
+
+/* Fixed sidenav, full height */
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  /* Style the sidenav links and the dropdown button */
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: var(--color-text);
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  /* On mouse-over */
+  .sidenav a:hover {
+    color: var(--color-link);
+  }
+  
+  /* Main content */
+  .main {
+    margin-left: 200px; /* Same as the width of the sidenav */
+    font-size: 20px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+  
+  /* Some media queries for responsiveness */
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  
