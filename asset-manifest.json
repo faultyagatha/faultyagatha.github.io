@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.882b87d1.chunk.css",
-    "main.js": "/static/js/main.1abded5d.chunk.js",
-    "main.js.map": "/static/js/main.1abded5d.chunk.js.map",
+    "main.js": "/static/js/main.13f2c3d3.chunk.js",
+    "main.js.map": "/static/js/main.13f2c3d3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fded5765.js",
     "runtime-main.js.map": "/static/js/runtime-main.fded5765.js.map",
-    "static/js/2.21ce03ff.chunk.js": "/static/js/2.21ce03ff.chunk.js",
-    "static/js/2.21ce03ff.chunk.js.map": "/static/js/2.21ce03ff.chunk.js.map",
+    "static/js/2.e8ebe4bd.chunk.js": "/static/js/2.e8ebe4bd.chunk.js",
+    "static/js/2.e8ebe4bd.chunk.js.map": "/static/js/2.e8ebe4bd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7f4693123711ff7331d238ba98b4201f.js": "/precache-manifest.7f4693123711ff7331d238ba98b4201f.js",
+    "precache-manifest.b1190a30b6998f40e5ce06099be887a5.js": "/precache-manifest.b1190a30b6998f40e5ce06099be887a5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.882b87d1.chunk.css.map": "/static/css/main.882b87d1.chunk.css.map",
-    "static/js/2.21ce03ff.chunk.js.LICENSE.txt": "/static/js/2.21ce03ff.chunk.js.LICENSE.txt",
+    "static/js/2.e8ebe4bd.chunk.js.LICENSE.txt": "/static/js/2.e8ebe4bd.chunk.js.LICENSE.txt",
     "static/media/ballerina.glb": "/static/media/ballerina.e1b2c70d.glb",
     "static/media/bk.jpg": "/static/media/bk.60d744c6.jpg",
     "static/media/bump.jpg": "/static/media/bump.21e835dd.jpg",
@@ -32,6 +32,12 @@
     "static/media/garden.jpg": "/static/media/garden.aa3f4d9b.jpg",
     "static/media/grid.jpg": "/static/media/grid.2459b909.jpg",
     "static/media/icoVoronoi.glb": "/static/media/icoVoronoi.0e3c2113.glb",
+    "static/media/incantation.jpg": "/static/media/incantation.65d8ff15.jpg",
+    "static/media/interstellar_bk.png": "/static/media/interstellar_bk.89b035a5.png",
+    "static/media/interstellar_ft.png": "/static/media/interstellar_ft.fe5196e6.png",
+    "static/media/interstellar_lf.png": "/static/media/interstellar_lf.9fb38d76.png",
+    "static/media/interstellar_rt.png": "/static/media/interstellar_rt.6e84abb1.png",
+    "static/media/interstellar_up.png": "/static/media/interstellar_up.8c9df977.png",
     "static/media/lf.jpg": "/static/media/lf.abc58c50.jpg",
     "static/media/lichtspektakel1.jpg": "/static/media/lichtspektakel1.9b031508.jpg",
     "static/media/lichtspektakel2.jpg": "/static/media/lichtspektakel2.7f551c96.jpg",
@@ -94,8 +100,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fded5765.js",
-    "static/js/2.21ce03ff.chunk.js",
+    "static/js/2.e8ebe4bd.chunk.js",
     "static/css/main.882b87d1.chunk.css",
-    "static/js/main.1abded5d.chunk.js"
+    "static/js/main.13f2c3d3.chunk.js"
   ]
 }
