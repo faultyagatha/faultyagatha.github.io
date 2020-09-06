@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b6050d8.chunk.css",
-    "main.js": "/static/js/main.7df308dd.chunk.js",
-    "main.js.map": "/static/js/main.7df308dd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fded5765.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fded5765.js.map",
-    "static/js/2.30021b39.chunk.js": "/static/js/2.30021b39.chunk.js",
-    "static/js/2.30021b39.chunk.js.map": "/static/js/2.30021b39.chunk.js.map",
+    "main.css": "/static/css/main.dbef7a09.chunk.css",
+    "main.js": "/static/js/main.148fcffb.chunk.js",
+    "main.js.map": "/static/js/main.148fcffb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.889d26e0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.889d26e0.js.map",
+    "static/js/2.ba10efcd.chunk.js": "/static/js/2.ba10efcd.chunk.js",
+    "static/js/2.ba10efcd.chunk.js.map": "/static/js/2.ba10efcd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b3147f5e69ee2c62f058ab5c24e3a4d8.js": "/precache-manifest.b3147f5e69ee2c62f058ab5c24e3a4d8.js",
+    "precache-manifest.3c31fd824c32f52f88e7820ec1f8e225.js": "/precache-manifest.3c31fd824c32f52f88e7820ec1f8e225.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4b6050d8.chunk.css.map": "/static/css/main.4b6050d8.chunk.css.map",
-    "static/js/2.30021b39.chunk.js.LICENSE.txt": "/static/js/2.30021b39.chunk.js.LICENSE.txt",
+    "static/css/main.dbef7a09.chunk.css.map": "/static/css/main.dbef7a09.chunk.css.map",
+    "static/js/2.ba10efcd.chunk.js.LICENSE.txt": "/static/js/2.ba10efcd.chunk.js.LICENSE.txt",
     "static/media/armfoot.jpg": "/static/media/armfoot.62a18033.jpg",
     "static/media/armfoot.glb": "/static/media/armfoot.c29f6549.glb",
     "static/media/baby.glb": "/static/media/baby.5c3cf8e8.glb",
@@ -104,14 +104,16 @@
     "static/media/theMofG7.png": "/static/media/theMofG7.75a1f30e.png",
     "static/media/theMofG8.png": "/static/media/theMofG8.e6c46fc5.png",
     "static/media/theMofG9.png": "/static/media/theMofG9.ade029b1.png",
+    "static/media/theMofGame1.png": "/static/media/theMofGame1.0058e091.png",
+    "static/media/thought.jpg": "/static/media/thought.117596d6.jpg",
     "static/media/threeBone.glb": "/static/media/threeBone.6c5c8e61.glb",
     "static/media/threebone.jpg": "/static/media/threebone.97c0ad2c.jpg",
     "static/media/up.jpg": "/static/media/up.24c8eb7b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fded5765.js",
-    "static/js/2.30021b39.chunk.js",
-    "static/css/main.4b6050d8.chunk.css",
-    "static/js/main.7df308dd.chunk.js"
+    "static/js/runtime-main.889d26e0.js",
+    "static/js/2.ba10efcd.chunk.js",
+    "static/css/main.dbef7a09.chunk.css",
+    "static/js/main.148fcffb.chunk.js"
   ]
 }

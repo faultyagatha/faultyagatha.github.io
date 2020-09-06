@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc12feaa9f58b579441dede092ac56cc",
+    "revision": "4a441cbc812d46d3024765a6d783e799",
     "url": "/index.html"
   },
   {
-    "revision": "2e06a2020f1fe28be3b2",
-    "url": "/static/css/main.4b6050d8.chunk.css"
+    "revision": "8471eaf20a9b09b7a857",
+    "url": "/static/css/main.dbef7a09.chunk.css"
   },
   {
-    "revision": "a7c8b5247162030ed411",
-    "url": "/static/js/2.30021b39.chunk.js"
+    "revision": "3bf3f96401fb3367f90f",
+    "url": "/static/js/2.ba10efcd.chunk.js"
   },
   {
     "revision": "499aaef6649f208a6b412b7b631d8894",
-    "url": "/static/js/2.30021b39.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ba10efcd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e06a2020f1fe28be3b2",
-    "url": "/static/js/main.7df308dd.chunk.js"
+    "revision": "8471eaf20a9b09b7a857",
+    "url": "/static/js/main.148fcffb.chunk.js"
   },
   {
-    "revision": "07b87ef8fb8e8e89822f",
-    "url": "/static/js/runtime-main.fded5765.js"
+    "revision": "9130284a903a65bb7d7a",
+    "url": "/static/js/runtime-main.889d26e0.js"
   },
   {
     "revision": "62a18033c54a4ad99ee5d8dd2ab9c764",
@@ -390,6 +390,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ade029b1adc42ac1bde47d8a5a68f4f7",
     "url": "/static/media/theMofG9.ade029b1.png"
+  },
+  {
+    "revision": "0058e09139909a78834f8476b2cca8af",
+    "url": "/static/media/theMofGame1.0058e091.png"
+  },
+  {
+    "revision": "117596d68eedc77348d645e3d42bbab0",
+    "url": "/static/media/thought.117596d6.jpg"
   },
   {
     "revision": "6c5c8e61211592c3ab9266fa99d5659c",
